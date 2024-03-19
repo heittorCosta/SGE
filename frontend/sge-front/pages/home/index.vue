@@ -24,6 +24,6 @@ const submitLogout = () => {
 <template>
     <div>
         <h1>Minha tela Home!</h1>
-        <button type="submit" class="customButton" @click="submitLogout">SAIR</button>
+        <button type="submit" class="customButton" @click="submitLogout">SAIR 😎</button>
     </div>
 </template>
